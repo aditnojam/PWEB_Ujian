@@ -1,6 +1,6 @@
 # Panduan Menjalankan Program
 
-Pastikan modul **Apache** dan **MySQL** di XAMPP sudah aktif serta database bernama **perpustakaan** dengan tabel **buku** telah tersedia.  
+Pastikan modul **Apache** dan **MySQL** di XAMPP sudah aktif serta database bernama **MovieLibrary** dengan tabel **movie** telah tersedia.  
 Untuk menjalankan back-end, buka terminal dan arahkan ke direktori backend menggunakan perintah:  
 `cd .\backend\`  
 Lalu jalankan server dengan perintah:  
